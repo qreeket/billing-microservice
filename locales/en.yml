@@ -1,0 +1,17 @@
+app_name: Qreeket
+
+access_denied: Access denied
+
+# misc
+invalid_language_code: Unsupported language code
+
+
+transaction_success: Transaction successful
+transaction_failed: Transaction failed
+
+# errors
+invalid_params: Invalid parameters
+invalid_credentials: Invalid credentials
+invalid_token: Invalid token
+invalid_user: Invalid user
+invalid_user_type: Invalid user type
